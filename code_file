@@ -9,10 +9,9 @@ third commit from mumbai
 <<<<<<< HEAD
 new line added to check for brnching details
 -------------------------------------
-=======
-appended data from branch1
-<<<<<<< HEAD
->>>>>>> branch1
-=======
-shira append 
->>>>>>> branch1
+
+aappended data from branch1
+
+sshira append 
+
+data from branch2.
