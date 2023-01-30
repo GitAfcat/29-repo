@@ -6,5 +6,9 @@ further code added from singapore developer
 ---------------
 third commit from mumbai
 ------------------
+<<<<<<< HEAD
 new line added to check for brnching details
 -------------------------------------
+=======
+appended data from branch1
+>>>>>>> branch1
