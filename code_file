@@ -11,4 +11,8 @@ new line added to check for brnching details
 -------------------------------------
 =======
 appended data from branch1
+<<<<<<< HEAD
+>>>>>>> branch1
+=======
+shira append 
 >>>>>>> branch1
