@@ -8,3 +8,4 @@ elif (integer==0):
 
 else:
     print("positive")
+print("be safe")
