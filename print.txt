@@ -1,0 +1,10 @@
+print("enter the number you wanna check")
+integer = int(input())
+if (integer<0):
+    print("negative")
+
+elif (integer==0):
+    print("zero")
+
+else:
+    print("positive")
